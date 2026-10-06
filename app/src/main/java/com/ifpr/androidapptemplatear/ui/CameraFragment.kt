@@ -33,7 +33,7 @@ class CameraFragment : Fragment() {
 
     private val CAMERA_PERMISSION_CODE = 1001
 
-    private var currentModelFile: String = "neutrofilo.glb"
+    private var currentModelFile: String = "crystal.glb"
 
     private var _binding: FragmentCameraBinding? = null
 
