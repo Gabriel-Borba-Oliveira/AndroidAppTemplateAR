@@ -33,6 +33,7 @@ class CameraFragment : Fragment() {
     private lateinit var collectButton: ExtendedFloatingActionButton
     private lateinit var scoreText: TextView
     private var score = 0
+
     private var ambientPlayer: MediaPlayer? = null
 
     private lateinit var sharedViewModel: SharedModelViewModel
